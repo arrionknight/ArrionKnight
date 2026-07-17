@@ -1,6 +1,5 @@
 ## Arrion Knight
-
-Google says "is a collegiate track and field athlete, computer science researcher, and prominent tech content creator who popularizes coding education under the brand Knight Code. He is widely recognized for his short-form educational videos that make complex programming topics accessible and entertaining to hundreds of thousands of followers."
+I make complex coding concepts easy to understand. I dabble in a little streaming here and there on [Twitch](https://www.twitch.tv/arrionknight).
 
 A couple of facts:
 * I made a switch in Python.
