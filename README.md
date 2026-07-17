@@ -6,6 +6,7 @@ Couple of facts:
 * 1x🌸 R6 Champ
 * I'm kinda like a comedian (some might say)
 * I am vegetarian
+* Currently building [Trap'n SQL](https://www.hood-coding.com/) (learn to trap and SQL)
 
 <!--
 **arrionknight/ArrionKnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
