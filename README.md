@@ -5,7 +5,7 @@ Google says "is a collegiate track and field athlete, computer science researche
 A couple of facts:
 * I made a switch in Python.
 * 1x🌸 R6 Champ
-* I'm kinda like a comdiean (some might say).
+* I'm kinda like a comedian (some might say).
 
 <!--
 **arrionknight/ArrionKnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
