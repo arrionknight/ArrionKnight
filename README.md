@@ -3,9 +3,9 @@
 Google says "is a collegiate track and field athlete, computer science researcher, and prominent tech content creator who popularizes coding education under the brand Knight Code. He is widely recognized for his short-form educational videos that make complex programming topics accessible and entertaining to hundreds of thousands of followers."
 
 A couple of facts:
-*I made a switch in Python.
-*1x🌸 R6 Champ
-*I'm kinda like a comdiean (some might say).
+* I made a switch in Python.
+* 1x🌸 R6 Champ
+* I'm kinda like a comdiean (some might say).
 
 <!--
 **arrionknight/ArrionKnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
