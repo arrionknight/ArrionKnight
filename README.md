@@ -2,9 +2,10 @@
 I make complex coding concepts easy to understand. I dabble in a little streaming here and there on [Twitch](https://www.twitch.tv/arrionknight).
 
 A couple of facts:
-* I made a switch in Python.
+* Fisrt person to make a switch in python.
 * 1x🌸 R6 Champ
-* I'm kinda like a comedian (some might say).
+* I'm kinda like a comedian (some might say)
+* I am vegetarian
 
 <!--
 **arrionknight/ArrionKnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
