@@ -1,7 +1,7 @@
 ## Arrion Knight
 I make complex coding concepts easy to understand. I dabble in a little streaming here and there on [Twitch](https://www.twitch.tv/arrionknight).
 
-A couple of facts:
+Couple of facts:
 * Fisrt person to make a switch in python.
 * 1x🌸 R6 Champ
 * I'm kinda like a comedian (some might say)
